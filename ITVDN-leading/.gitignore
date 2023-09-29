@@ -1,0 +1,5 @@
+.idea/
+build
+npm-debug.log
+nodu_modules
+.DS_Store
